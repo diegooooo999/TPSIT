@@ -1,7 +1,15 @@
-La materia TPIST (Tecnologie per la Progettazione e l'Integrazione dei Sistemi Tecnologici) è un corso che si inserisce nei percorsi di studio delle scuole superiori o in alcune facoltà universitarie orientate verso l'ingegneria, l'informatica e le tecnologie applicate. Si concentra sull'uso delle tecnologie moderne per progettare, sviluppare e integrare sistemi complessi.
+La materia TPIST (Tecnologie per la Progettazione e l'Integrazione dei Sistemi Tecnologici) si concentra sull'apprendimento delle competenze tecnologiche avanzate per progettare e integrare sistemi complessi. Gli studenti acquisiscono conoscenze pratiche e teoriche su diverse tecnologie, con un focus particolare su:
 
-Durante il corso, gli studenti apprendono come utilizzare strumenti e metodi per analizzare, progettare e realizzare soluzioni tecnologiche, spesso legate a settori come l’automazione, la robotica, l’Internet delle cose (IoT) e i sistemi informatici. Viene dato particolare rilievo all'integrazione di diverse componenti tecnologiche per costruire sistemi che rispondano a specifiche esigenze, ottimizzando efficienza, sicurezza e prestazioni.
+-Progettazione e analisi dei sistemi tecnologici: come progettare circuiti elettronici, sistemi di automazione e robotica.
 
-Le principali tematiche trattate comprendono la progettazione di circuiti elettronici, l’uso di software per la simulazione e la modellazione, la gestione dei dati e l'automazione dei processi industriali. Inoltre, si affrontano aspetti legati alla sostenibilità e all’innovazione, con una continua attenzione all'evoluzione tecnologica e alle tendenze del mercato.
+-Simulazione e modellazione: utilizzo di software avanzati per testare e simulare comportamenti di sistemi tecnologici.
 
-In sintesi, TPIST prepara gli studenti a entrare nel mondo delle tecnologie applicate, con una solida base teorica e pratica per affrontare le sfide dell’ingegneria e dell’informatica moderna.
+-Integrazione di componenti tecnologiche: come unire diverse tecnologie per creare soluzioni ottimizzate ed efficienti.
+
+-Automazione industriale: studio di processi automatici e robotici in contesti industriali.
+
+-Sostenibilità e innovazione: implementazione di soluzioni che rispettano principi di sostenibilità ambientale ed efficienza energetica.
+
+-Sistemi di controllo e monitoraggio: progettazione di sistemi per il controllo remoto e il monitoraggio dei processi in tempo reale.
+
+La materia prepara gli studenti ad affrontare le sfide tecnologiche moderne, fornendo strumenti per sviluppare soluzioni innovative in un mondo sempre più digitalizzato e automatizzato. L'approccio è pratico e teorico, integrando teoria scientifica e applicazione pratica nei diversi settori tecnologici.
